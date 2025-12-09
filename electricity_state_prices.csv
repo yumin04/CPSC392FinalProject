@@ -1,0 +1,54 @@
+state,res_2025,electricity_price_dollars
+Connecticut,30.48,0.3048
+Maine,27.98,0.2798
+Massachusetts,30.41,0.3041
+New Hampshire,27.82,0.2782
+Rhode Island,28.3,0.28300000000000003
+Vermont,23.92,0.23920000000000002
+New Jersey,23.39,0.2339
+New York,27.23,0.2723
+Pennsylvania,20.46,0.2046
+Illinois,19.05,0.1905
+Indiana,17.33,0.17329999999999998
+Michigan,21.2,0.212
+Ohio,17.61,0.1761
+Wisconsin,18.73,0.1873
+Iowa,14.79,0.1479
+Kansas,15.2,0.152
+Minnesota,17.1,0.171
+Missouri,15.84,0.15839999999999999
+Nebraska,13.85,0.13849999999999998
+North Dakota,13.66,0.1366
+South Dakota,14.76,0.1476
+Delaware,18.12,0.1812
+District of Columbia,23.67,0.23670000000000002
+Florida,15.76,0.1576
+Georgia,15.3,0.153
+Maryland,21.05,0.21050000000000002
+North Carolina,15.12,0.1512
+South Carolina,15.34,0.1534
+Virginia,16.62,0.16620000000000001
+West Virginia,16.14,0.16140000000000002
+Alabama,16.43,0.1643
+Kentucky,13.56,0.1356
+Mississippi,13.97,0.13970000000000002
+Tennessee,13.29,0.1329
+Arkansas,13.79,0.1379
+Louisiana,12.36,0.12359999999999999
+Oklahoma,14.79,0.1479
+Texas,15.84,0.15839999999999999
+Arizona,15.27,0.1527
+Colorado,16.7,0.16699999999999998
+Idaho,12.5,0.125
+Montana,14.64,0.1464
+Nevada,11.95,0.1195
+New Mexico,16.52,0.16519999999999999
+Utah,14.12,0.1412
+Wyoming,15.0,0.15
+Pacific Contiguous,26.76,0.2676
+California,32.04,0.3204
+Oregon,15.96,0.15960000000000002
+Washington,13.79,0.1379
+Pacific Noncontiguous,34.99,0.34990000000000004
+Alaska,27.16,0.2716
+Hawaii,39.54,0.3954
